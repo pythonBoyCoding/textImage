@@ -314,5 +314,4 @@ while run:
 
     findColor()
     pygame.display.update()
-    # by Yonatan Nativ - Halperin
 
